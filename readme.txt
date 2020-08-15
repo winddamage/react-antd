@@ -1,1 +1,1 @@
-这是一个react + antd项目
+react + antd
